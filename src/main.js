@@ -13,7 +13,7 @@ const app = createApp(App)
 
 //여기서 provide 해주면 하위의 모든 곳에 message 뿌릴 수 있음.
 //모든 컴포넌트에서 사용하는 라이브러리가 있다면 이렇게 여기서 provide하면 된다.
-app.provide('app-message', 'app message 입니다.')
+//app.provide('app-message', 'app message 입니다.')
 
 app.mount('#app')
 import 'bootstrap/dist/js/bootstrap.js'
