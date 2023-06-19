@@ -1,3 +1,5 @@
+Vue3 완벽 마스터: 기초부터 실전까지 - "기본편"
+
 # learn-vue3-test
 
 This template should help get you started developing with Vue 3 in Vite.
